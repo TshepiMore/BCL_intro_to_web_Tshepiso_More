@@ -1,3 +1,40 @@
-/*body{
-    background-color:rgb(229, 129, 6);
-}*/
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color: #249269;
+}
+.Menu {
+    background-color: #00FDF5;
+    padding-left: 0%;
+    width: 100px;
+}
+.menu {
+    color: #FD6F00;
+    font-style: italic;
+    font-size: large;
+}
+.education {
+    color: #FD6F00;
+    font-style: italic
+}
+.experience {
+    color:#FD6F00;
+    font-style: italic
+}
+.skills {
+    color: #fd6f00;
+    font-style: italic
+}
+.contact_details {
+    color:#FD6F00;
+    font-style: italic
+}
+.header {
+    text-align: center;
+    background-color: #FD0077;
+    padding-bottom: 0%;
+}
+.footer {
+    background-color: #99476E;
+}
