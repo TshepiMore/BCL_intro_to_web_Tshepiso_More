@@ -26,7 +26,7 @@ body {
 .skills {
     font-style: italic
 }
-.contact_details {
+#contacts {
     font-style: italic
 }
 #header {
@@ -61,7 +61,4 @@ footer {
 }
 #container {
     display: flex;
-}
-#forms{
-    margin-left: 75%;
 }
